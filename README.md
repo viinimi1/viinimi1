@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viinimi1
 - 👀 I’m interested in Python and automation
-- 🌱 I’m working as process owner and currently learning basics of coding
+- 🌱 I’m working as a process owner and currently learning basics of coding
 - 💞️ I’m looking to collaborate with my NC colleagues
 - 📫 You can reach via email miika.viinikainen@nordcloud.com
 
